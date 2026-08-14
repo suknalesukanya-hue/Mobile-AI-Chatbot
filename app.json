@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Mobile AI Chatbot",
+    "slug": "mobile-ai-chatbot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.mobileaichatbot"
+    },
+    "android": {
+      "package": "com.example.mobileaichatbot"
+    },
+    "plugins": [
+      "expo-web-browser"
+    ]
+  }
+}
