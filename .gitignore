@@ -10,3 +10,4 @@ npm-debug.*
 *.mobileprovision
 .env
 .DS_Store
+*.zip
